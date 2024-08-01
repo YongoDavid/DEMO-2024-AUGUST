@@ -3,4 +3,4 @@ WELCOME TO ANOTHER MONTH DAVID , CONSISTENCY IS KEY SOOO JUST DO IT AGAIN THIS M
 DONT GIVE UP GIVE YOUR ALL!
 
 AUG 1
-New month new day , new grind.
+New month , new day , new grind.
