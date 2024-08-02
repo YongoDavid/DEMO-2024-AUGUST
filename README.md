@@ -6,3 +6,4 @@ AUG-01
 New month , new day , new grind.
 
 AUG-02
+Worked 10 hours yesterday , which was out of my regular 8hours daily and i am happy with that.
