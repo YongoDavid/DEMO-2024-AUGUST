@@ -4,3 +4,5 @@ DONT GIVE UP GIVE YOUR ALL!
 
 AUG 1
 New month , new day , new grind.
+
+AUG 2
