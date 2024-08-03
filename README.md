@@ -13,3 +13,4 @@ Then continue more projects on Qwasar.
 I need to redo Basecamp1 and solve the beginning 
 
 AUG-03
+New day , new grind!
