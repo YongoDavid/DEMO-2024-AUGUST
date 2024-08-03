@@ -11,3 +11,5 @@ Hope to do more of that this month.
 Time to upload more projects to github.
 Then continue more projects on Qwasar.
 I need to redo Basecamp1 and solve the beginning 
+
+AUG-03
