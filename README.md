@@ -17,3 +17,5 @@ New day , new grind!
 Starting TEAMS/Basecamp project from the begining.
 
 AUG-04
+Crazy dayy today , buut i woont let it get to me.
+
