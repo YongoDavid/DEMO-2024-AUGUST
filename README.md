@@ -21,3 +21,4 @@ Crazy dayy today , buut i woont let it get to me.
 i workekd a little then slept and woke up to work again and my Mac screen started acting up.
 I will find my way around this issue and hopfullyy get it fixed soon.
 
+AUG-05
