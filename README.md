@@ -29,3 +29,5 @@ And make soome changes too imporve my Resume.
 AUG-06
 New day , new grind
 i have to continue working on the REACT projects i have on Qwasar.
+i must finish up the react calculator them move to the next project.
+
