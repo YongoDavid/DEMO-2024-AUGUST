@@ -25,3 +25,5 @@ AUG-05
 New Day , new grind.
 i neeed to get some projects done on qwasar and start new projects.
 And make soome changes too imporve my Resume.
+
+AUG-06
