@@ -32,4 +32,7 @@ i have to continue working on the REACT projects i have on Qwasar.
 i must finish up the react calculator them move to the next project.
 REACT calculator has been completed , i just need to host it.
 
+AUG-07
+
+
 
