@@ -33,6 +33,6 @@ i must finish up the react calculator them move to the next project.
 REACT calculator has been completed , i just need to host it.
 
 AUG-07
-
+New day  , new grind.
 
 
