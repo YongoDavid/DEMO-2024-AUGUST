@@ -40,5 +40,5 @@ Another day , another grind.
 i need to host the REACT calc , i tried yesterday but it didnt go well so i will try again today.
 
 AUG-09
-
+I have tried hosting the REACT calculator but i am unable to.
 
