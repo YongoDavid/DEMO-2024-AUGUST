@@ -42,3 +42,5 @@ i need to host the REACT calc , i tried yesterday but it didnt go well so i will
 AUG-09
 I have tried hosting the REACT calculator but i am unable to.
 Azure is not accepting nigerian cards , same with Google cloud , AWS and netlify is not working.
+I need to submit a project this week on Qwasar so i will just host on render and suubmit.
+
