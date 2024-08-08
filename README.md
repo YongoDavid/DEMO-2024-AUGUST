@@ -37,3 +37,5 @@ New day  , new grind.
 
 AUG-08
 Another day , another grind.
+i need to host the REACT calc , i tried yesterday but it didnt go well so i will try again today.
+
