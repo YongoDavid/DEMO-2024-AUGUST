@@ -36,4 +36,4 @@ AUG-07
 New day  , new grind.
 
 AUG-08
-
+Another day , another grind.
